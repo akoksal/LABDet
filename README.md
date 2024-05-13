@@ -35,9 +35,6 @@ and this time they propose a neutral set of adjectives. Therefore, we aim to inv
 nationality change for positive/negative sentiment
 surfacing.
 
-Otherwise, you can create these files by using [test_dataset_generator.py](https://github.com/akoksal/LABDet/blob/main/test_dataset_generator.py).
-
-
 Sentiment Surfacing Dataset:
 
 | Language | URL |
@@ -48,6 +45,9 @@ Sentiment Surfacing Dataset:
 | French   | [Test-FR](https://github.com/akoksal/LABDet/blob/main/test/fr.json) |
 | German   | [TEST-DE](https://github.com/akoksal/LABDet/blob/main/test/de.json) |
 | Turkish  | [TEST-TR](https://github.com/akoksal/LABDet/blob/main/test/tr.json) |
+
+Otherwise, you can create these files by using [test_dataset_generator.py](https://github.com/akoksal/LABDet/blob/main/test_dataset_generator.py).
+
 
 ## Citation
 ```
